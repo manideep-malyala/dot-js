@@ -1,5 +1,4 @@
 
-
 # JavaScript Compatibility: 
 
 * **Core Principle:** JavaScript is designed to be **backward compatible**.
@@ -17,4 +16,4 @@
         2.  A transpiler (like **Babel**) takes this modern code.
         3.  It converts ("transpiles") it into an equivalent, older version of JavaScript (most commonly ES5) that is widely supported.
         4.  This older, transpiled code is what's then delivered to the browser or runtime.
-    * **Benefit:** Developers get to use new, more efficient, and cleaner syntax, while maintaining broad compatibility for users.
+    * **Benefit:** Developers get to use new, more efficient, and cleaner syntax, while maintaining broad compatibility for users. 
